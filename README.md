@@ -50,3 +50,15 @@ export default {
 
 https://developers.themoviedb.org/3/getting-started/introduction
 
+<p>Requesting data from api using Axios</p>
+
+```javascript
+import axios from 'axios';
+
+const instance = axios.create({
+    baseURL:"https://api.themoviedb.org/3",
+});
+
+export default instance;
+```
+
