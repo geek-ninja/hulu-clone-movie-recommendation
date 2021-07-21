@@ -1,3 +1,9 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+
+
 # hulu-clone-movie-recommendation made using Reactjs
 
 <h2>how to start?</h2>
@@ -117,3 +123,5 @@ export default Results
 
 ```
 
+<h3>You can follow the whole project from this youtube video ...link is given below</h3>
+https://www.youtube.com/watch?v=du_FuBTrclo&t=8622s
