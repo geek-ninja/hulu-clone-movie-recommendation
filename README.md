@@ -6,6 +6,11 @@
 
 # hulu-clone-movie-recommendation made using Reactjs
 
+<h2>Visit the link below to see the website I have made</h2>
+<p>The website is hosted in firebase</p>
+
+https://hulu-clone-75d75.firebaseapp.com/
+
 <h2>how to start?</h2>
 npm create-react-app hulu
 <p>The above command will create the app for you</p>
