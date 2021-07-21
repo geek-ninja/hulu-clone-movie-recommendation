@@ -12,3 +12,11 @@ npm create-react-app hulu
 <p>npm i axios</p>
 <h2>Then run the server</h2>
 <p>npm start </p>
+
+  <h3>Project Overview</h3>
+  
+  ![](1.png)
+  
+  ![](2.png)
+  
+  
