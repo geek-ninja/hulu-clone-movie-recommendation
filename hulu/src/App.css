@@ -1,0 +1,9 @@
+.app_header{
+    position: fixed;
+    z-index: 1;
+    background-image: linear-gradient(to right,#051421,#042727);
+    width: 100%;
+    padding-bottom: 10px;
+    top: 0;
+}
+
