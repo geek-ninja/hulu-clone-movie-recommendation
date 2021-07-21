@@ -13,10 +13,17 @@ npm create-react-app hulu
 <h2>Then run the server</h2>
 <p>npm start </p>
 
-  <h3>Project Overview</h3>
+<h2>Project Overview</h2>
   
   ![](1.png)
   
   ![](2.png)
   
+<h2>Api used</h2>
+
+https://image.tmdb.org/t/p/original/
+
+```javascript
+const base_url = 'https://image.tmdb.org/t/p/original/';
+```
   
