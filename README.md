@@ -12,7 +12,7 @@
 https://hulu-clone-75d75.firebaseapp.com/
 
 <h2>how to start?</h2>
-npm create-react-app hulu
+npx create-react-app hulu
 <p>The above command will create the app for you</p>
 <p>Now replace the src folder from the repo with your src folder that you have just created</p>
 <h2>Install some extra packages</h2>
